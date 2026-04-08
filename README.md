@@ -4,7 +4,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a Berlin-based student of **Industrial Engineering & Management** at the **Technische Universität Berlin**, with a strong focus on software engineering, data analytics, and AI-driven applications. I enjoy bridging the gap between technical depth and business thinking — whether that's building production-ready web apps, automating workflows, or diving into systems programming.
 
@@ -40,7 +40,7 @@ Outside of tech, I enjoy staying active and coaching youth basketball — habits
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-000000?style=flat-square&logo=powerbi&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **DevOps & Tools**
 
@@ -52,24 +52,24 @@ Outside of tech, I enjoy staying active and coaching youth basketball — habits
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🎨 [Wunderland Atelier](https://www.wunderland-atelier.de)
+### [Wunderland Atelier](https://www.wunderland-atelier.de)
 A full end-to-end website built for my mother's art atelier — from scratch and in production.
 - **Frontend**: React + Vite + Tailwind CSS, deployed on Vercel
 - **Backend**: Python (FastAPI), with rate limiting, preview gate middleware, and security checks
 - **Infrastructure**: Custom domain with DNS records connected to hosting — fully self-managed
 - Solo project: sole contributor across both repos (backend and frontend)
 
-### 🧠 Bachelor Thesis — LLM Behavior in Games
+### Bachelor Thesis — LLM Behavior in Games
 Research project investigating how large language models behave across different game environments. Designing and running experiments to analyze decision-making patterns, strategic reasoning, and consistency of LLMs when exposed to varying game-theoretic settings.
 
-### 📊 Self-Learning Projects
+### Self-Learning Projects
 A collection of personal projects exploring data engineering, workflow automation, and systems programming — built to deepen skills outside of university coursework.
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Company | Period |
 |------|---------|--------|
@@ -81,7 +81,7 @@ A collection of personal projects exploring data engineering, workflow automatio
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Sc. Industrial Engineering & Management** · Technische Universität Berlin *(Oct 2023 – Present)*
 
@@ -89,12 +89,12 @@ Combining computer science (hardware, networks, systems programming, OS), quanti
 
 ---
 
-## 🌍 Languages
+## Languages
 
 🇩🇪 German (native) · 🇬🇧 English (fluent) · 🇫🇷 French (basics) · 🇪🇸 Spanish (basics)
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 [![Email](https://img.shields.io/badge/Email-g.schubert@campus.tu--berlin.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:g.schubert@campus.tu-berlin.de)
