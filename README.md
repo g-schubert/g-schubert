@@ -1,16 +1,16 @@
 # Hi, I'm Gabriel Schubert 👋
 
-### Industrial Engineering & Computer Science Student @ TU Berlin · Developer · Data & AI Enthusiast
+### Industrial Engineering @ TU Berlin · Developer · Data & AI Enthusiast
 
 ---
 
 ## About Me
 
-I'm a Berlin-based student of **Industrial Engineering & Management** at the **Technische Universität Berlin**, with a strong focus on software engineering, data analytics, and AI-driven applications. I enjoy bridging the gap between technical depth and business thinking — whether that's building production-ready web apps, automating workflows, or diving into systems programming.
+I'm a Berlin-based student of **Industrial Engineering & Management** at the **Technische Universität Berlin**, with a strong focus on software engineering, data analytics, and AI-driven applications. I enjoy bridging the gap between technical depth and business thinking, whether that's building production-ready web apps, automating workflows, or diving into systems programming.
 
 Beyond university, I've worked as a **data analytics working student**, interned in **technical venture development**, and tutored fellow students in computer science. I love turning real-world problems into clean, reliable software.
 
-Outside of tech, I enjoy staying active and coaching youth basketball — habits that keep me focused and team-oriented.
+Outside of tech, I enjoy staying active and coaching youth basketball, habits that keep me focused and team-oriented.
 
 ---
 
