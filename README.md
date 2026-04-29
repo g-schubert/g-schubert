@@ -41,6 +41,7 @@ Outside of tech, I enjoy staying active and coaching youth basketball, habits th
 ![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![QuickSight](https://img.shields.io/badge/QuickSight-8B60E1?style=flat-square&logo=amazonaws&logoColor=white)
 
 **DevOps & Tools**
 
