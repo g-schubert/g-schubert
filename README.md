@@ -56,17 +56,17 @@ Outside of tech, I enjoy staying active and coaching youth basketball, habits th
 ## Projects
 
 ### [Wunderland Atelier](https://www.wunderland-atelier.de)
-A full end-to-end website built for my mother's art atelier — from scratch and in production.
+A full end-to-end website built for my mother's art atelier from scratch and in production.
 - **Frontend**: React + Vite + Tailwind CSS, deployed on Vercel
 - **Backend**: Python (FastAPI), with rate limiting, preview gate middleware, and security checks
-- **Infrastructure**: Custom domain with DNS records connected to hosting — fully self-managed
+- **Infrastructure**: Custom domain with DNS records connected to hosting (fully self-managed)
 - Solo project: sole contributor across both repos (backend and frontend)
 
 ### Bachelor Thesis — LLM Behavior in Games
 Research project investigating how large language models behave across different game environments. Designing and running experiments to analyze decision-making patterns, strategic reasoning, and consistency of LLMs when exposed to varying game-theoretic settings.
 
 ### Self-Learning Projects
-A collection of personal projects exploring data engineering, workflow automation, and systems programming — built to deepen skills outside of university coursework.
+A collection of personal projects exploring data engineering, workflow automation, and systems programming, built to deepen skills outside of university coursework.
 
 ---
 
