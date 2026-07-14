@@ -14,7 +14,7 @@ Outside of tech, I enjoy staying active and coaching youth basketball, habits th
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -62,7 +62,7 @@ A full end-to-end website built for my mother's art atelier from scratch and in 
 - **Infrastructure**: Custom domain with DNS records connected to hosting (fully self-managed)
 - Solo project: sole contributor across both repos (backend and frontend)
 
-### Bachelor Thesis — LLM Behavior in Games
+### Bachelor Thesis — LLM Behavior in Games Grade 1.0/1.0 German grading
 Research project investigating how large language models behave across different game environments. Designing and running experiments to analyze decision-making patterns, strategic reasoning, and consistency of LLMs when exposed to varying game-theoretic settings.
 
 ### Self-Learning Projects
