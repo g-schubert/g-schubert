@@ -84,15 +84,10 @@ A collection of personal projects exploring data engineering, workflow automatio
 
 ## Education
 
-**B.Sc. Industrial Engineering & Management** · Technische Universität Berlin *(Oct 2023 – Present)*
+**B.Sc. Industrial Engineering & Management** · Technische Universität Berlin  *(Oct 2023 – Sep 2026)*
 
-Combining computer science (hardware, networks, systems programming, OS), quantitative methods (statistics, mathematics), and economics.
-
----
-
-## Languages
-
-🇩🇪 German (native) · 🇬🇧 English (fluent) · 🇫🇷 French (basics) · 🇪🇸 Spanish (basics)
+Combining computer science (hardware, networks, systems programming, OS), quantitative methods (statistics, mathematics), and economics. 
+Grade: 1.8/1.0 German grading
 
 ---
 
