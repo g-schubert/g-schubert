@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:g.schubert@campus.tu-berlin.de)
+[![Email](https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.schubert@tum.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-schubert)
 [![GitHub](https://img.shields.io/github/followers/g-schubert?style=for-the-badge&color=181717&logo=github&logoColor=white&label=Follow)](https://github.com/g-schubert)
 ![Profile views](https://komarev.com/ghpvc/?username=g-schubert&style=for-the-badge&color=6366F1&label=Views)
