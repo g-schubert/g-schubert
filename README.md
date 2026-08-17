@@ -82,7 +82,7 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 
 **Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Linux, Bash, VS Code" height="48" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,vscode&theme=dark" alt="Git, GitHub, GitHub Actions, Bash, VS Code, Cursor, IntelliJ, PyCharm" height="48" />
 
 </div>
 
