@@ -19,7 +19,7 @@
 
 ---
 
-## 🧭 Overview
+## Overview
 
 I build the layer where **data, software and business decisions meet** — production web apps, analytics infrastructure, and AI-powered internal tools.
 
@@ -37,7 +37,7 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 <tr>
 <td width="50%" valign="top">
 
-** Currently building**
+**Currently building**
 - Analytics layer on Postgres → QuickSight
 - An internal **AI analytics agent** on AWS
 - Automations that delete manual work
@@ -45,7 +45,7 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 </td>
 <td width="50%" valign="top">
 
-** Currently learning**
+**Currently learning**
 - Data engineering at scale (sanitizing, integrating, warehousing)
 - Systems programming for fu
 - Everything LLM evaluation
