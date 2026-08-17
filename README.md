@@ -80,11 +80,9 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 <img src="https://img.shields.io/badge/PostHog-000000?style=flat-square&logo=posthog&logoColor=white" height="24" />
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="24" />
 
-**Workflow**
+**Editors & Workflow**
 
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,vscode&theme=dark, cursor, IntelliJ, PyCharm" alt="Git, GitHub, GitHub Actions, Bash, VS Code, Cursor, IntelliJ, PyCharm" height="48" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,bash,vscode,idea,pycharm&theme=dark" alt="Git, GitHub, GitHub Actions, Bash, VS Code, IntelliJ IDEA, PyCharm" height="48" /> <br/> <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" height="24" /> </div>
 
 ---
 
