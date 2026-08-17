@@ -116,7 +116,6 @@ Experimental study of how large language models make decisions across game-theor
 A rotating playground for data engineering, workflow automation and systems programming — the stuff university doesn't cover.
 
 ### Where I've worked
-
 <br/>
 
 | Role | Company | Period |
