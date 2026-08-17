@@ -29,7 +29,6 @@ studying:  B.Sc. Industrial Engineering & Management @ TU Berlin
 working:   Data Analytics & Tech Ops (working student)
 stack:     Python · SQL · React · AWS
 thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
-offline:   basketball coach (youth) · gym · power metal volume up
 ```
 
 <br/>
@@ -38,7 +37,7 @@ offline:   basketball coach (youth) · gym · power metal volume up
 <tr>
 <td width="50%" valign="top">
 
-**🚀 Currently building**
+** Currently building**
 - Analytics layer on Postgres → QuickSight
 - An internal **AI analytics agent** on AWS
 - Automations that delete manual work
@@ -46,9 +45,9 @@ offline:   basketball coach (youth) · gym · power metal volume up
 </td>
 <td width="50%" valign="top">
 
-**🌱 Currently learning**
-- Data engineering at scale (dbt, warehousing)
-- Systems programming for fun (C, Assembly)
+** Currently learning**
+- Data engineering at scale (sanitizing, integrating, warehousing)
+- Systems programming for fu
 - Everything LLM evaluation
 
 </td>
@@ -57,7 +56,7 @@ offline:   basketball coach (youth) · gym · power metal volume up
 
 ---
 
-## 🛠️ Toolbox
+##  Toolbox
 
 <div align="center">
 
@@ -89,9 +88,8 @@ offline:   basketball coach (youth) · gym · power metal volume up
 
 ---
 
-## 📦 Selected Work
+## Selected Work
 
-> Source code lives in private repositories — happy to walk through architecture and decisions on request.
 
 ### 🎨 [Wunderland Atelier](https://www.wunderland-atelier.de) &nbsp;·&nbsp; `live in production`
 
@@ -113,12 +111,12 @@ Experimental study of how large language models make decisions across game-theor
 <img src="https://img.shields.io/badge/LLM_Evaluation-6366F1?style=flat-square&logoColor=white" height="22" />
 <img src="https://img.shields.io/badge/Game_Theory-4338CA?style=flat-square&logoColor=white" height="22" />
 
-### 🧪 Self-Learning Projects
+### Self-Learning Projects
 
 A rotating playground for data engineering, workflow automation and systems programming — the stuff university doesn't cover.
 
 <details>
-<summary><b>💼 Where I've worked</b> (click to expand)</summary>
+<summary><b> Where I've worked</b> (click to expand)</summary>
 
 <br/>
 
@@ -136,54 +134,6 @@ Computer science (systems programming, OS, networks, hardware) + quantitative me
 </details>
 
 ---
-
-## 📊 GitHub in Motion
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=g-schubert&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&include_all_commits=true" alt="GitHub stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=g-schubert&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=g-schubert&bg_color=1A1B27&color=6366F1&line=6366F1&point=FFFFFF&area=true&area_color=6366F1&hide_border=true" alt="Contribution activity graph" />
-
-<details>
-<summary><b>More stats &amp; trophies</b></summary>
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-schubert&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&custom_title=Most+Used+Languages*" alt="Most used languages" />
-<br/><br/>
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=g-schubert&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" alt="GitHub trophies" />
-<br/>
-<sup><b>*</b> Language stats reflect public code only — not experience or skill level.</sup>
-
-</details>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/g-schubert/g-schubert/output/github-snake-dark.svg" />
-  <img width="98%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/g-schubert/g-schubert/output/github-snake.svg" />
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-<details open>
-<summary><b>💭 Quote of the day</b></summary>
-<br/>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
-</details>
-
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=420&lines=Thanks+for+stopping+by!;Let's+build+something." alt="Thanks for stopping by" />
-</a>
-
-</div>
 
 <p align="right"><a href="#top"><img src="https://img.shields.io/badge/back_to_top-6366F1?style=flat" alt="back to top" /></a></p>
 
