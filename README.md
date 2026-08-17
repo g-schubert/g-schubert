@@ -115,8 +115,7 @@ Experimental study of how large language models make decisions across game-theor
 
 A rotating playground for data engineering, workflow automation and systems programming — the stuff university doesn't cover.
 
-<details>
-<summary><b> Where I've worked</b> (click to expand)</summary>
+### Where I've worked
 
 <br/>
 
@@ -128,12 +127,10 @@ A rotating playground for data engineering, workflow automation and systems prog
 | Student Consultant | Fellow Ventures, Berlin | Mar – Sep 2024 |
 | Intern — Mechanical &amp; Electrical Engineering | Liebherr, Ehingen | Apr – Jun 2022 |
 
-### Academic Way
+### Academic way
 
 **B.Sc. Industrial Engineering &amp; Management** · TU Berlin · Oct 2023 – Sep 2026
 Computer science (systems programming, OS, networks, hardware) + quantitative methods + economics.
-
-</details>
 
 ---
 
