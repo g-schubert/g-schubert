@@ -103,7 +103,7 @@ End-to-end website for my mother's art atelier — designed, built and shipped s
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="22" />
 <a href="https://www.wunderland-atelier.de"><img src="https://img.shields.io/badge/visit_site-6366F1?style=flat-square&logo=googlechrome&logoColor=white" height="22" alt="Visit wunderland-atelier.de" /></a>
 
-### 🧠 LLM Behavior in Games &nbsp;·&nbsp; `bachelor thesis — 1.0/1.0`
+### LLM Behavior in Games &nbsp;·&nbsp; `bachelor thesis — 1.0/1.0`
 
 Experimental study of how large language models make decisions across game-theoretic environments: strategic reasoning, consistency, and behavioral drift under changing incentives.
 
@@ -127,6 +127,8 @@ A rotating playground for data engineering, workflow automation and systems prog
 | Tutor — Intro to CS &amp; CS Specialization | TU Berlin | Oct 2024 – Jul 2025 |
 | Student Consultant | Fellow Ventures, Berlin | Mar – Sep 2024 |
 | Intern — Mechanical &amp; Electrical Engineering | Liebherr, Ehingen | Apr – Jun 2022 |
+
+### Academic Way
 
 **B.Sc. Industrial Engineering &amp; Management** · TU Berlin · Oct 2023 – Sep 2026
 Computer science (systems programming, OS, networks, hardware) + quantitative methods + economics.
