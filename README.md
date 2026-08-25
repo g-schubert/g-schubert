@@ -31,11 +31,6 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-</td>
 <td width="50%" valign="top">
 
 **Currently learning**
@@ -44,8 +39,6 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 - Everything LLM evaluation
 
 </td>
-</tr>
-</table>
 
 ---
 
