@@ -21,8 +21,6 @@
 
 ## Overview
 
-I build the layer where **data, software and business decisions meet** — production web apps, analytics infrastructure, and AI-powered internal tools.
-
 ```yaml
 location:  Berlin, Germany
 studying:  B.Sc. Industrial Engineering & Management @ TU Berlin
@@ -36,11 +34,6 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 <table>
 <tr>
 <td width="50%" valign="top">
-
-**Currently building**
-- Analytics layer on Postgres → QuickSight
-- An internal **AI analytics agent** on AWS
-- Automations that delete manual work
 
 </td>
 <td width="50%" valign="top">
