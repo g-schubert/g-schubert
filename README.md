@@ -33,8 +33,9 @@ thesis:    LLM behavior in game-theoretic environments  # 1.0 / 1.0
 
 **Currently learning**
 - Data engineering at scale (sanitizing, integrating, warehousing)
-- Systems programming for fu
-- Everything LLM evaluation
+- Systems programming for fun
+- Network Securities
+- Data Analytics in Applications
 
 </td>
 
