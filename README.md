@@ -22,11 +22,11 @@
 
 ```yaml
 location:   Munich, Germany
-studying:   M.Sc. Management & Technology @ TUM          # since Oct 2026
+studying:   M.Sc. Management & Technology @ TUM                    # since Oct 2026
 focus:      advanced informatics · operations & supply chain
 previously: B.Sc. Industrial Engineering & Management @ TU Berlin  # 1.8 / 1.0 German grading 
 stack:      Various Programming Languages · SQL · dbt · React · AWS
-thesis:     norm-sensitive behavior in LLMs              # 1.0 / 1.0 German grading 
+thesis:     norm-sensitive behavior in LLMs                        # 1.0 / 1.0 German grading 
 speaks:     German · English 
 ```
 
