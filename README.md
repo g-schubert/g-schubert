@@ -115,9 +115,10 @@ End-to-end website for my mother's art atelier. Designed, built and shipped solo
   <img src="https://img.shields.io/badge/AI_Safety-0F172A?style=flat-square" height="22" alt="AI Safety" />
 </p>
 
-### Self-Learning Projects
+### Self-Learning Projects & Open Source
 
-A rotating playground for data engineering, workflow automation and systems programming.
+A rotating playground for data engineering, workflow automation and systems programming. 
+Currently maintaining **[RepFolio](https://github.com/g-schubert/RepFolio)** — a private, offline gym & running tracker for iOS (SwiftUI).
 
 ---
 
