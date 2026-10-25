@@ -25,7 +25,7 @@ location:   Munich, Germany
 studying:   M.Sc. Management & Technology @ TUM          # since Oct 2026
 focus:      advanced informatics · operations & supply chain
 previously: B.Sc. Industrial Engineering & Management @ TU Berlin
-stack:      Python · SQL · dbt · React · AWS
+stack:      Various Programming Languages · SQL · dbt · React · AWS
 thesis:     norm-sensitive behavior in LLMs              # 1.0 / 1.0
 speaks:     German · English 
 ```
